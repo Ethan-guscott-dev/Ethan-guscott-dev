@@ -1,4 +1,4 @@
-# Hi there, I'm Ethan! 👋
+# Hi there, I'm Ethan! 
 
 Welcome to my GitHub profile! I am a motivated student at **Saracens Sixth Form** with a deep passion for Computer Science, Artificial Intelligence, and digital systems. I am currently pursuing a **T Level in Digital Support/Production**, building hands-on technical skills and exploring how next-generation tech impacts our world.
 
